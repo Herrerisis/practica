@@ -1,0 +1,221 @@
+<!Doctype html>
+<Html>
+<head>
+				<title>PAPELERIA, FOTOCOPIAS Y MAS, BKR.</title>
+<meta charset="utf-8">
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+        
+<style>
+body {
+background-color:#9966ff; }
+                
+
+#cabecera1 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:000000;
+background-color:#ffcc00;
+
+}
+
+#cabecera2 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#000000;
+background-color:#ffcc00;
+}
+
+#cabecera3 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#000000;
+background-color:#ffcc00;
+}
+
+#cabecera4 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align: center;
+color:#000000;
+background-color:#ffcc00;
+}
+
+#cabecera5 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#000000;
+background-color:#ffcc00;
+}
+
+#cabecera6 {
+font-family:"Times New Roman";
+font-size:30px;
+text-align:center;
+color:#000000;
+background-color:#ffcc00;
+}
+
+
+border-top-width:2px;
+border-right-width:2px;
+border-bottom-width:2px;
+border-left-width:2px;
+
+border-top-style:solid;
+border-right-style:dotted;
+border-bottom-style:solid;
+border-left-style:dotted;
+
+border-top-color:#000000;
+border-right-color:#000000;
+border-bottom-color:#000000;
+border-left-color:#CC0000;
+}
+
+h1{
+border-width:2px;
+border-color:#FFFF00;
+border-style:inset;
+}
+
+h2{
+border-width:4px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h3{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+h4{
+border-width:70px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h5{
+border-width:2px;
+border-style:groveer;
+border-color:#CC0000;
+}
+
+h6{
+border-width:2px;
+border-style:grover;
+border-color:#CC0000;
+}
+
+table{
+
+border-width:10px;
+				border-color:#FF6600;
+				
+}
+
+
+ol{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+
+
+p{
+font-family:"Times New Roman";
+color:#FFFFFF;
+
+}
+
+td{
+font-family:"Times New Roman";
+color:#ffffff;
+
+
+}
+
+ul{
+font-family:"Times New Roman";
+color:#FFCC00;
+}
+</style>
+
+<body>
+		<div id="cabecera1">
+<h1>PAPELERIA, FOTOCOPIAS Y MAS, BKR.</h1>
+</div>
+<p>Papelería es un fondo de comercio donde se 
+venden materialy objetos de oficina, para
+ estudiantes y demás partes interesadas.
+Muchas papelerías también desarrollan otras 
+líneas comerciales paralelas, como la venta 
+de regalos o libros.</p>
+	
+
+<Ul>
+	<a href="#frutasdulces">TIPOS DE PAPEL</a><br>
+					      <a href="#frutasacidas">TIPOS DE CARTULINA</a><br>
+									<a href="#frutascemi-acidas">TIPOS DE LIBRO</a><br>
+								<a href="#frutasneutras">TIPOS DE LÁPIZ</a><br>
+								<a href="#frutascurcubitaceas">TIPOS DE FOLDERS</a><br></ul>
+</br>
+
+
+
+
+<li><a href="https://www.facebook.com/Papeleria.BKR/">PAPELERÍA,FOTOCOPIAS Y MÁS, BKR.</a></li>
+
+
+
+
+								
+
+<a name="frutasdulces"></a>
+		<div id="cabecera2">
+<h2>TIPOS DE PAPEL</h2></div>
+	<ol>
+												<li>PAPEL CREPE:</li>
+												<p>El papel crepé es un papel muy ligero y poroso de aspecto arrugado, permite cierta elasticidad. También se le conoce como papel pinocho, papel corrugado o papel crespón.</p>
+											  				<li>PAPEL OROPEL:</li>
+											  				<p>El oropel de algo, en este marco, es un brillo sin substancia. En concreto, se hace mención al llamado papel oropel. </p>
+																<li>PAPEL CELOFAN:</li>
+																<p>Es un polímero natural, es decir, una sustancia química derivada de la celulosa y, por tanto, de origen natural y biodegradable.
+</p>
+																<li>PAPEL BOND:</li>
+																<p>es un papel de escritura duradero y de alta calidad, similar al papel bancario, pero con un peso superior a 50 g/m2. A veces se confunde con el papel básico para fotocopiadoras, pero el papel de tipo bond tiene un gramaje mayor y está fabricado con fibra de algodón para darle más resistencia.</p>
+																<li>PAPEL CORRUGADO:</li>
+																<p>El cartón ondulado o corrugado es un material utilizado fundamentalmente para la fabricación de envases y embalajes. Generalmente, se compone de tres o cinco papeles; los de las dos capas exteriores son lisos y el interior o los interiores ondulados, lo que confiere a la estructura una gran resistencia mecánica.</p>
+																<li>PAPEL IRIS:</li>
+																<p>es un papel de color suave, de alta calidad y sin ácido, especialmente diseñado para manualidades y trabajos de gran resistencia.
+</p>
+																<li>PAPEL CONSTRUCCIÓN :</li>
+																<p>Papel de gran durabilidad y relativamente barato, en forma de láminas empleado en construcción para mejorar el aislamiento térmico y proteger contra las condiciones atmosféricas.</p>
+			</p>
+														  
+												</ol>
+<table border="2">
+		<tr>
+		<td>PAPEL</td><td>PRECIO</td>
+		</tr>
+		<tr>
+		<td>Papel crepe</td><td>10 lps</td>
+		</tr>
+		<tr>
+		<td>Papel oropel</td><td>9 lps</td>
+		</tr>
+		<tr>
+		<td>Papel celofan</td><td>10 lps</td>			
+		</tr>
+		<tr>
+		<td>Papel Bom</td><td>4 lps</td>			
+		</tr>
+		<tr>
+		<td>Papel Corrugado</td><td>15 lps</td>		
+		</tr>
+		<tr>
+		<td>Pap
